@@ -1,46 +1,46 @@
-# 👋 Olá, eu sou Marcos Ferreira  
+# 👋 Hi, I'm Marcos Ferreira  
 
 💻 **Backend Engineer | Golang Specialist | Cloud (AWS & gRPC)**  
-🚀 **+10 anos** de experiência em sistemas escaláveis (Java, Ruby on Rails, agora 100% focado em Go)  
-🌍 Em transição para oportunidades internacionais como contractor remoto nos EUA  
+🚀 Over **10 years of experience** building scalable systems (Java, Ruby on Rails, now fully focused on Go)  
+🌍 Remote — Brazil & USA  
 
 ---
 
-## 🛠️ Stack Principal
-- **Linguagens:** Go (principal), Rust, Java, Ruby on Rails (legado)
-- **Cloud & Infra:** AWS (Lambda, SQS, DynamoDB, CloudWatch), Terraform, Docker
-- **Arquitetura:** Microservices, gRPC, REST APIs, Workers Distribuídos
-- **Banco de Dados:** PostgreSQL, DynamoDB, Redis
-- **DevOps:** CI/CD, Observability, Resiliência de sistemas  
+## 🛠️ Core Stack
+- **Languages:** Go (primary), Rust, Java, Ruby on Rails (legacy)  
+- **Cloud & Infra:** AWS (Lambda, SQS, DynamoDB, CloudWatch), Terraform, Docker  
+- **Architecture:** Microservices, gRPC, REST APIs, Distributed Workers  
+- **Databases:** PostgreSQL, DynamoDB, Redis  
+- **DevOps:** CI/CD, Observability, System Resilience  
 
 ---
 
-## 🚀 Projetos em Destaque
-- [**rmatch**](https://github.com/antoniomarcosferreira/rmatch) — ferramenta em Rust para matching eficiente.  
-- **Microserviços em Go + AWS** *(em construção)* — API Gateway, Lambda, DynamoDB e deploy via Terraform.  
-- **Workers Distribuídos com Go** *(em construção)* — processamento assíncrono via SQS/Kafka + monitoramento com CloudWatch.  
+## 🚀 Highlighted Projects
+- [**rmatch**](https://github.com/antoniomarcosferreira/rmatch) — Rust-based high-performance matching tool.  
+- **Go + AWS Microservices** *(in progress)* — API Gateway, Lambda, DynamoDB, deployed with Terraform.  
+- **Distributed Workers with Go** *(in progress)* — asynchronous processing with SQS/Kafka and monitoring via CloudWatch.  
 
 ---
 
-## ✍️ Conteúdo e Publicações
-- 📖 Blog técnico: [Nexagil](https://nexagil.com) — estudos e artigos sobre Go, Cloud e boas práticas.  
-- 💡 Reposts e networking no [LinkedIn](https://linkedin.com/in/antoniomarcosferreira).  
+## ✍️ Writing & Publications
+- 📖 Technical blog: [Nexagil](https://nexagil.com) — articles on Go, Cloud, and software engineering practices.  
+- 💡 Shared insights and networking on [LinkedIn](https://linkedin.com/in/antoniomarcosferreira).  
 
 ---
 
-## 🎯 Objetivos 2025–2026
-- Tornar-se **referência em Golang para sistemas Cloud-Native**.  
-- **Certificação AWS Developer Associate** *(em progresso)*.  
-- Participação ativa em comunidades internacionais (Gophers Slack, GoBridge).  
-- Atuação como **contractor remoto nos EUA**, entregando soluções escaláveis e de alto impacto.  
+## 🎯 Focus 2025–2026
+- Becoming a **recognized specialist in Golang for Cloud-Native systems**.  
+- **AWS Developer Associate certification** *(in progress)*.  
+- Active participation in global developer communities (Gophers Slack, GoBridge).  
+- Driving impact in large-scale tax and compliance systems at **Sovos Brazil** (Taxrules & Taxengine projects).  
 
 ---
 
-## 📫 Como me encontrar
-- 🌐 Site/Portfólio: [nexagil.com](https://nexagil.com)  
+## 📫 Where to Find Me
+- 🌐 Portfolio: [nexagil.com](https://nexagil.com)  
 - 💼 LinkedIn: [linkedin.com/in/antoniomarcosferreira](https://linkedin.com/in/antoniomarcosferreira)  
 - 🐦 GitHub: [github.com/antoniomarcosferreira](https://github.com/antoniomarcosferreira)  
 
 ---
 
-✨ *“Construindo soluções modernas com Golang e Cloud, unindo performance, escalabilidade e simplicidade.”*  
+✨ *“Building modern solutions with Golang and Cloud — combining performance, scalability, and simplicity.”*  
