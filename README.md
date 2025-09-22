@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marcos Ferreira  
 
 💻 **Backend Engineer | Golang Specialist | Cloud (AWS & gRPC)**  
-🚀 Over **10 years of experience** building scalable systems (Java, Ruby on Rails, now fully focused on Go)  
+🚀 Over **15 years of experience** building scalable systems (Java, Ruby on Rails, now fully focused on Go)  
 🌍 Remote — Brazil & USA  
 
 ---
