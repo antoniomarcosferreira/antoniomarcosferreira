@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Antonio Marcos Ferreira
 
 💻 **Senior Software Engineer | Distributed Systems & Cloud Architect**
+
 🚀 **20+ years of experience** building scalable SaaS platforms and enterprise systems.
+
 🌍 Brazil — Collaborating actively with US-based engineering teams for 8+ years.
 
 ---
